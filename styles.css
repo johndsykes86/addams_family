@@ -23,9 +23,20 @@ section{
   margin: auto;
 }
 
+
 section ul{
   text-align: center;
   padding: 0;
+}
+
+.border {
+  border: 4px solid white;
+  border-radius: 13px;
+  margin-bottom: 20px;
+}
+
+.hover:hover{
+  border-color: red;
 }
 
 /* Apply to the main family tree image. */
