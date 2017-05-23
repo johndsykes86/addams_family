@@ -17,6 +17,8 @@ ul {
   list-style-position: inside;
 }
 
+
+
 section{
   text-align: center;
   width: 400px;
@@ -40,6 +42,10 @@ section ul{
 }
 
 /* Apply to the main family tree image. */
+.tree {
+  margin-bottom: 20px;
+}
+
 .tree img {
   max-width: 1400px;
   width: 100%;
